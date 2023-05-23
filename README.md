@@ -42,6 +42,7 @@ $
 $ exit
 $
 
+
 ### Non-Interactive Mode
 
 $ echo "/bin/ls" | ./hsh
@@ -54,11 +55,13 @@ $ ./hsh < commands.txt
 hsh main.c shell.c
 /home/user/project-directory
 
+
 ### Error messages
 $ echo "qwerty" | ./hsh
 ./hsh: 1: qwerty: not found
 $ echo "qwerty" | ./././hsh
 ./././hsh: 1: qwerty: not found
+
 
 ### Contact
 For any questions or feedback, please contact [Your Name] at your-email@example.com.
