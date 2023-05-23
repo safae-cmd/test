@@ -20,14 +20,14 @@ hsh is a simple yet powerful Linux shell written in C. It aims to replicate the 
 
 ### Project Requirements
 
-Allowed editors: vi, vim, emacs
-Compiled on Ubuntu 20.04 LTS using gcc with options -Wall -Werror -Wextra -pedantic -std=gnu89
-All files end with a new line
-Follow the Betty style for code formatting
-No memory leaks in your shell
-No more than 5 functions per file
-All header files should be include guarded
-Use system calls only when necessary
+- Allowed editors: vi, vim, emacs.
+- Compiled on Ubuntu 20.04 LTS using gcc with options -Wall -Werror -Wextra -pedantic -std=gnu89.
+- All files end with a new line.
+- Follow the Betty style for code formatting.
+- No memory leaks in your shell.
+- No more than 5 functions per file.
+- All header files should be include guarded.
+- Use system calls only when necessary.
 
 ### Prerequisites
 
@@ -70,6 +70,9 @@ $ echo "qwerty" | ./hsh
 $ echo "qwerty" | ./././hsh
 ./././hsh: 1: qwerty: not found
 
-### Contact
+### Contributors
 
-For any questions or feedback, please contact [Your Name] at your-email@example.com.
+## Authors
+
+- [Author 1](https://github.com/adnan-jahbli) - [author1@example.com](mailto:author1@example.com)
+- [Author 2](https://github.com/safae-cmd) - [author2@example.com](mailto:author2@example.com)
