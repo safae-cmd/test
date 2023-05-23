@@ -74,5 +74,5 @@ $ echo "qwerty" | ./././hsh
 
 ## Authors
 
-- [Author 1](https://github.com/adnan-jahbli) - [safaealamimchichi@gmail.com](safaealamimchichi@gmail.com)
-- [Author 2](https://github.com/safae-cmd) - [author2@example.com](mailto:author2@example.com)
+- Adnane Jahbli(https://github.com/adnan-jahbli)
+- Safae Alami M'chichi(https://github.com/safae-cmd)
