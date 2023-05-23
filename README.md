@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="hsh-logo.png" alt="hsh - Simple Linux Shell">
+  <img src="C:\Users\hp\Downloads/shell" alt="hsh - Simple Linux Shell">
 </div>
 
 # hsh - Simple Linux Shell
