@@ -45,14 +45,17 @@ hsh is a simple yet powerful Linux shell written in C. It aims to replicate the 
 
 ### Interactive Mode
 
+```shell
 $ ./hsh
 hsh $ /bin/ls
 hsh main.c shell.c
 hsh $ exit
 $
+```
 
 ### Non-Interactive Mode
 
+```shell
 $ echo "/bin/ls" | ./hsh
 hsh main.c shell.c
 $
@@ -62,13 +65,16 @@ $ cat commands.txt
 $ ./hsh < commands.txt
 hsh main.c shell.c
 /home/user/project-directory
+```
 
 ### Error messages
 
+```shell
 $ echo "qwerty" | ./hsh
 ./hsh: 1: qwerty: not found
 $ echo "qwerty" | ./././hsh
 ./././hsh: 1: qwerty: not found
+```
 
 ### Contributors
 
