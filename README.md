@@ -74,5 +74,5 @@ $ echo "qwerty" | ./././hsh
 
 ## Authors
 
-- Adnane Jahbli(https://github.com/adnan-jahbli)
-- Safae Alami M'chichi(https://github.com/safae-cmd)
+- [Adnane Jahbli](https://github.com/adnan-jahbli)
+- [Safae Alami M'chichi](https://github.com/safae-cmd)
