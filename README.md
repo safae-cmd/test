@@ -25,7 +25,7 @@ hsh is a simple yet powerful Linux shell written in C. It aims to replicate the 
 
 ### Installation
 
-1. Clone the repository: git clone https://github.com/your-username/hsh.git
+1. Clone the repository: git clone https://github.com/adnan-jahbli/simple_shell.git
 2. Compile the shell: gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh 
 3. Run the shell in interactive mode: ./hsh
 4. Run the shell in non-interactive mode with a command file: ./hsh < commands.txt
